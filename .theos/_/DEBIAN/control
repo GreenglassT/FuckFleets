@@ -1,0 +1,10 @@
+Package: com.greenglasst.fuckfleets
+Name: FuckFleets
+Architecture: iphoneos-arm
+Description: Hide twitter Fleets!
+Maintainer: GreenglassT
+Author: GreenglassT
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-8+debug
+Installed-Size: 152
